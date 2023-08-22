@@ -1,2 +1,3 @@
 smallPhenotyperRun.csv filter=lfs diff=lfs merge=lfs -text
 multiPlantImageEx.csv filter=lfs diff=lfs merge=lfs -text
+pcv4-multi-value-traits.csv filter=lfs diff=lfs merge=lfs -text
